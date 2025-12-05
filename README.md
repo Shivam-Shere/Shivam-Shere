@@ -64,7 +64,7 @@ I enjoy building **end-to-end data solutions**, interactive dashboards, and pred
 
 📧 **Email: [shereshivam2003@gmail.com](shereshivam2003@gmail.com)**  
 🔗 **LinkedIn: www.linkedin.com/in/shivam-shere**  
-
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shivam-shere/)
 
 
 ⭐ *Thanks for visiting! Feel free to explore my repositories and connect with me.*  
