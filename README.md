@@ -1,27 +1,12 @@
 ## Hi there, I'm Shivam Shere 👋
 
-<!--
-**Shivam-Shere/Shivam-Shere** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
 
 #  Welcome to My GitHub Profile!
 
 I am a motivated **Data Science learner** with a strong background in **Data Analytics** and a passion for creating innovative applications.  
 I am constantly exploring new technologies, improving my skills, and contributing to dynamic, real-world data projects.
 
----
+
 
 ## 👨‍💻 About Me
 I’m an aspiring **Data Analyst** passionate about transforming raw data into meaningful insights using **Python, SQL, Power BI, and Machine Learning**.  
