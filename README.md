@@ -27,46 +27,50 @@ I enjoy building **end-to-end data solutions**, interactive dashboards, and pred
 
 ## 💻 **Technical Stack**
 
-###  *Programming Language*       
-- Python
+
+###  Programming Language  
+<p>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+</p>
+
+###  Databases  
+<p>
+  <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" />
+  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" />
+</p>
+
+###  Data Visualization  
+<p>
+  <img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white" />
+  <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" />
+</p>
+
+###  ETL & Data Modeling  
+<p>
+  <img src="https://img.shields.io/badge/Power%20Query-006400?style=for-the-badge&logo=microsoft-excel&logoColor=white" />
+  <img src="https://img.shields.io/badge/Power%20Pivot-008000?style=for-the-badge&logo=powerbi&logoColor=white" />
+  <img src="https://img.shields.io/badge/Data%20Modeling-4B8BBE?style=for-the-badge&logo=data%20model&logoColor=white" />
+</p>
+
+###  Machine Learning  
+<p>
+  <img src="https://img.shields.io/badge/Regression-FF7F50?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Classification-8A2BE2?style=for-the-badge" />
+</p>
+
+###  Development Tools  
+<p>
+  <img src="https://img.shields.io/badge/Jupyter%20Notebook-F37626?style=for-the-badge&logo=jupyter&logoColor=white" />
+  <img src="https://img.shields.io/badge/Google%20Colab-F9AB00?style=for-the-badge&logo=google-colab&logoColor=black" />
+</p>
+
+###  Version Control  
+<p>
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+</p>
 
 
-###  *Databases*  
-- MySQL
-- PostgreSQL
 
-
-### *Data VisualiZation*
-- Excel
-- Microsoft Power BI
-
-
-### *ETL & Data Modeling*
-
-- Power Query (ETL / Data Preparation)
-
-- Power Pivot (Data Modeling Engine)
-
-- Data Modeling (BI Modeling Layer)
-
-
-### *Machine Learning*  
-
-- Regression
-
-- Classification
-
-
-### *Development Tools*  
-
-- Jupyter Notebook 
-
-- Google Colab  
-
-
-## *Version Control*
-
-- GitHub
 
 
 ## ⭐ Soft Skills
