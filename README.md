@@ -100,7 +100,7 @@ I enjoy building **end-to-end data solutions**, interactive dashboards, and pred
 <p>
   <img src="https://img.shields.io/badge/Problem%20Solving-FF8C00?style=for-the-badge" />
   <img src="https://img.shields.io/badge/Quick%20Learner-1E90FF?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Teamwork-8A2BE2?style=for-the-badge" />
+  
 </p>
 
 
