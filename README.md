@@ -108,22 +108,13 @@ I enjoy building **end-to-end data solutions**, interactive dashboards, and pred
 ## 🌐 Let’s Connect!
 
 <p>
-  <a href="mailto:[shereshivam2003@gmail.com](shereshivam2003@gmail.com)">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-
- 
-  <a href="mailto:shereshivam2003@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-
-
-
   <a href="https://www.linkedin.com/in/shivam-shere/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
 </p>
 
+[![Gmail](https://img.shields.io/badge/-Email-red?style=for-the-badge&logo=gmail&logoColor=white)](mailto:shereshivam2003@gmail.com)
 
+Feel free to explore my repositories and reach out for collaboration opportunities or just to say hi! 😊
 
 ## *Thanks for visiting! Feel free to explore my repositories and connect with me.*  
