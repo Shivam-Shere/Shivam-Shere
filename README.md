@@ -113,8 +113,6 @@ I enjoy building **end-to-end data solutions**, interactive dashboards, and pred
   </a>
 </p>
 
-[![Gmail](https://img.shields.io/badge/-Email-red?style=for-the-badge&logo=gmail&logoColor=white)](mailto:shereshivam2003@gmail.com)
 
-Feel free to explore my repositories and reach out for collaboration opportunities or just to say hi! 😊
 
 ## *Thanks for visiting! Feel free to explore my repositories and connect with me.*  
