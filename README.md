@@ -1,6 +1,6 @@
 <div align="left">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Lucida+Console&size=26&pause=1000&color=F39C12&width=500&lines=Hello+there%2C+I'm+Shivam+Samir+Shere+%F0%9F%91%8B"alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Lucida+Console&size=26&pause=1000&color=F39C12&width=500&lines=Hello+there%2C+I'm+Shivam+Shere+%F0%9F%91%8B"alt="Typing SVG" />
   </a>
 </div>
 
@@ -106,6 +106,18 @@ I enjoy building **end-to-end data solutions**, interactive dashboards, and pred
 
 
 ## 🌐 Let’s Connect!
+
+<p>
+  <a href="mailto:shereshivam2003@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+
+  <a href="https://www.linkedin.com/in/shivam-shere/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+</p>
+
+
 
 [![Gmail](https://img.shields.io/badge/-Email-red?style=for-the-badge&logo=gmail&logoColor=white)](mailto:shereshivam2003@gmail.com) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shivam-shere/)
 
