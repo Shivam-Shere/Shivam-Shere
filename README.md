@@ -17,7 +17,7 @@ I’m an aspiring **Data Analyst** passionate about transforming raw data into m
 
 I enjoy building **end-to-end data solutions**, interactive dashboards, and predictive models.
 
-🌱 **Currently Learning:** PySpark, Cloud Service, and Data Engineering  
+🌱 **Currently Learning:** Data Engineering, PySpark, and Cloud Service  
 
 🚀 **Actively Working On:** Soft Skills Improvement and Cloud-based Data Engineering Pipelines
 
