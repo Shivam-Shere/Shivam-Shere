@@ -19,7 +19,7 @@ I enjoy building **end-to-end data solutions**, interactive dashboards, and pred
 
 🌱 **Currently Learning:** Data Engineering, PySpark, and Cloud Service  
 
-🚀 **Actively Working On:** Soft Skills Improvement and Cloud-based Data Engineering Pipelines
+🚀 **Actively Working On:** Soft Skills Improvement and Data Engineering Pipelines
 
 ## 💡 My Motto
   *Data is the new oil, but Analytics is the refinery !!*
