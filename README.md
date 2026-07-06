@@ -13,7 +13,7 @@ I am a motivated **Data Science learner** with a strong background in **Data Ana
 
 
 ## 👨‍💻 About Me
-I’m an aspiring **Data Analyst** passionate about transforming raw data into meaningful insights using **Python, SQL, Power BI, and Machine Learning.** I am also a **Certified Google Data Analytics Professional** and hold the **AWS Academy Cloud Foundations Certification.**
+I’m an aspiring **Data Professional**, transforming raw data into meaningful insights using **Python, SQL, Power BI, and Machine Learning.** I am also a **Certified Google Data Analytics Professional** and hold the **AWS Academy Cloud Foundations Certification.**
 
 I enjoy building **end-to-end data solutions**, interactive dashboards, and predictive models.
 
