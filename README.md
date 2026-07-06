@@ -70,7 +70,7 @@ I enjoy building **end-to-end data solutions**, interactive dashboards, and pred
 </p>
 
 
-### Cloud Services and Big Data Tools 
+### Cloud Services and Data Engineering 
 <p>
 <img alt="AWS" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" width="40" height="40" />
 
